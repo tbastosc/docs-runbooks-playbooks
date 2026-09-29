@@ -40,5 +40,5 @@ The content is provided for educational and operational guidance. Queries and pr
 
 ## License
 
-[Choose a license, e.g. MIT for code/queries or CC BY 4.0 for documentation]
+This project is licensed under the [MIT License](LICENSE).
 

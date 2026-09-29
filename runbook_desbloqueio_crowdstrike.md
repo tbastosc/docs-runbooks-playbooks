@@ -1,4 +1,4 @@
-# Guia Prático para Desbloqueio de Máquinas Barradas pelo CrowdStrike - Draft
+# Runbook Prático para Desbloqueio de Máquinas Barradas pelo CrowdStrike - Draft
 
 <div>
 
